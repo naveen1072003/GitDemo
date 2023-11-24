@@ -2,6 +2,6 @@ package com.example.gitproject;
 
 public class GitDemo {
 
-    private int a;
+    private int name;
     private int b;
 }
